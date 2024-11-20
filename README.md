@@ -1,4 +1,4 @@
-# Smart contracts, hardhat environment, tests for L3T H1M C00K.
+# Smart contracts, hardhat environment, tests for bakery.
 
 Test scripts are in test/ folder
 Deploy scripts are in scripts/ folder
